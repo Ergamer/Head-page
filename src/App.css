@@ -1,0 +1,80 @@
+.App {
+  text-align: center;
+  color: black;
+}
+
+.App-header {
+  background-color: #e374bc;
+  height: 150px;
+  padding: 20px;
+  color: black;
+    display: flex;
+    flex-wrap: wrap;
+    overflow: hidden;
+    margin-bottom: 200px;
+}
+.Icons {
+    width: 30%;
+}
+.App-header h2 {
+    display: block;
+}
+.App-header p {
+    float: left;
+    color: black;
+    font-size: 36px;
+    margin-top: 25px;
+    display: inline-block;
+}
+.glyphicon-user {
+    margin-right: 40px;
+}
+.DropDown {
+    margin-top: 28px;
+    color: black;
+}
+.Dropper {
+    background-color: transparent;
+}
+.Glyph {
+    font-size: 24px;
+    color: black;
+}
+.Total {
+    width: 25%;
+    margin-top: -20px;
+}
+.News {
+    width: 43%;
+    overflow: hidden;
+    margin-top: 25px;
+}
+.fa-bell-o {
+    float: right;
+}
+.App-intro {
+  font-size: large;
+}
+
+@keyframes App-logo-spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}
+.Footer {
+    background-color: #e374bc;
+    height: 100px;
+    color: black;
+}
+.Adder {
+    float: left;
+    margin-top: 25px;
+    margin-left: 10px;
+}
+.Search {
+    float: right;
+    margin-top: 25px;
+}
+.material-icons {
+    margin-right: 30px;
+    font-size: 60px;
+}
